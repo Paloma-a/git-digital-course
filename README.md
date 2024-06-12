@@ -1,1 +1,5 @@
-# git-digital-course
+<<<<<<< HEAD
+Seu conteúdo local aqui
+=======
+Conteúdo do repositório remoto aqui
+# curso git
