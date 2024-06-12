@@ -1,3 +1,5 @@
 # comando Git pull
 
-* salvando alterações 
+* salvando alterações
+* comando push
+* comando pull
